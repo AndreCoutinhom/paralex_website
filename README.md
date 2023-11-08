@@ -1,3 +1,3 @@
 # Parallex Website
 
-Another front-end website activity brought from Codehal
+A front-end website activity brought from Codehal
