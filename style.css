@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
@@ -42,7 +42,7 @@ header {
 
 .navigation a:hover,
 .navigation a.active {
-    color: #333;
+    color: #000000;
 }
 
 .navigation a span {
@@ -70,7 +70,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('background.png') no repeat;
+    background: url('background_2.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -78,9 +78,9 @@ header {
 
 #text {
     position: absolute;
-    font-size: 5em;
-    color: #1b283a;
-    text-shadow: 2px 4px 5px #f9f9f9;
+    font-size: 6em;
+    color: #2d88ff;
+    text-shadow: 2px 4px 5px rgb(2, 0, 150);
 }
 
 .parallax img {
@@ -103,7 +103,7 @@ header {
 
 .sec {
     position: relative;
-    background: #020912;
+    background: #000033;
     padding: 30px 100px;
 }
 
