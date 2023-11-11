@@ -1,4 +1,4 @@
-# Parallex Website
+# [Parallex Website](https://andrecoutinhom.github.io/paralex_website/)
 
 A front-end website activity brought from Codehal
 
